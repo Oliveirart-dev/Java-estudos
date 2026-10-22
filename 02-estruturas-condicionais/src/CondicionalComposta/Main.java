@@ -10,7 +10,7 @@ public class Main {
         int nota1 = sc.nextInt();
         int nota2 = sc.nextInt();
 
-        double media = nota1 + nota2 / 2;
+        double media = (nota1 + nota2) / 2;
         System.out.println("Média final: " + media);
 
        for (int i = 1; i <= 1; i++) {
